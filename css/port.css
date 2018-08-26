@@ -1,20 +1,19 @@
-div{
-    margin: 0; padding: 0; font-size: 0;
-}
 
 
-.img{
+.img{   
+        margin: 0; padding: 0; font-size:0;
         height:29250px; 
-        background-image: url(../img/WebPortfolio1.jpg);
+		background-image: url(../img/WebPortfolio1.jpg);
 		background-position: center;
 		background-repeat:no-repeat;
 		background-size: 100% 100%;
 		text-align:center;
 		position:relative;
 }
-.img{
-        height:10000px; 
-        background-image: url(../img/WebPortfolio2.jpg);
+.img2{   
+        margin: 0; padding: 0; font-size:0;
+        height:12675px; 
+		background-image: url(../img/WebPortfolio2.jpg);
 		background-position: center;
 		background-repeat:no-repeat;
 		background-size: 100% 100%;
