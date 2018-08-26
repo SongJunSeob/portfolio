@@ -12,3 +12,12 @@ div{
 		text-align:center;
 		position:relative;
 }
+.img{
+        height:12675px; 
+        background-image: url(../img/WebPortfolio2.jpg);
+		background-position: center;
+		background-repeat:no-repeat;
+		background-size: 100% 100%;
+		text-align:center;
+		position:relative;
+}
